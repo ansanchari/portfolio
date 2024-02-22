@@ -12,7 +12,7 @@ const Profile = () => {
     </div>
     <div class="section__text">
       <p class="section__text__p1">Hello, I'm</p>
-      <h1 class="title">Sanchari Mukherjee</h1>
+      <h1 class="title">Sanchari</h1>
       <p class="section__text__p2">FullStack Developer</p>
       <div class="btn-container">
         <a href={rs} target='__blank'>
